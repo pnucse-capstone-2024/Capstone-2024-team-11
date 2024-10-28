@@ -127,4 +127,4 @@
 
 ## 시연 영상
 
-[Youtube](https://www.youtube.com/watch?v=SYiMnF2JaGg&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=11)
+[![Youtube](https://img.youtube.com/vi/SYiMnF2JaGg/0.jpg)](https://www.youtube.com/watch?v=SYiMnF2JaGg&list=PLFUP9jG-TDp-CVdTbHvql-WoADl4gNkKj&index=11)
