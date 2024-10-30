@@ -94,6 +94,7 @@
 ```bash
 git clone https://github.com/pnucse-capstone-2024/Capstone-2024-team-11.git
 ```
+/data 폴더에서 git clone 해야 함
 
 [YOLOv9 모델](https://drive.google.com/file/d/1fLhixiMijXdYfuzChcCL3VB--b081eYy/view?usp=drive_link) 
 [VTFPAR++ 모델](https://drive.google.com/drive/folders/18wxCIkrzLLq_AMsK2h1Xq9t8Mgc_m2-y?usp=drive_link)
