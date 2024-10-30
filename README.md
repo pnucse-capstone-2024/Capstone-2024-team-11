@@ -105,7 +105,7 @@ Capstone-2024-team-11/FindSuspect/backend/algorithm/crop
 ```
 VTFPAR++모델 이동 경로
 ```bash
-Capstone-2024-team-11/FindSuspect/backend/algorithm/VTFPAR++
+Capstone-2024-team-11/FindSuspect/backend/algorithm/VTFPAR++/model
 ```
 ### 프론트엔드
 ```bash
