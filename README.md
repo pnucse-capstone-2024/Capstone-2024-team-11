@@ -107,17 +107,16 @@ VTFPAR++모델 이동 경로
 ```bash
 Capstone-2024-team-11/FindSuspect/backend/algorithm/VTFPAR++/model
 ```
-### 프론트엔드
+### 프론트엔드 실행
 ```bash
 cd Capstone-2024-team-11/FindSuspect/backend/src/main/frontend
 npm run start
 ```
-### 백엔드
+### 백엔드 실행
 ```bash
 cd Capstone-2024-team-11/FindSuspect/backend
 ./gradlew bootRun
 ```
-
 
 ## 개발 결과물을 사용하는 방법
 ### Admin 기준
