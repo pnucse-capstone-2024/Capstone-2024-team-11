@@ -89,6 +89,36 @@
 - Pytorch 2.0.1-cuda11.7-cudnn8-runtime
 - OpenCV-Python v4.10.0.84
 
+## 설치 방법
+### 기본 설치
+```bash
+git clone https://github.com/pnucse-capstone-2024/Capstone-2024-team-11.git
+```
+
+[YOLOv9 모델](https://drive.google.com/file/d/1fLhixiMijXdYfuzChcCL3VB--b081eYy/view?usp=drive_link) 
+[VTFPAR++ 모델](https://drive.google.com/drive/folders/18wxCIkrzLLq_AMsK2h1Xq9t8Mgc_m2-y?usp=drive_link)
+모델들을 다운로드 후 다음 경로에 각 모델 파일을 넣습니다.
+
+YOLO모델 이동 경로
+```bash
+Capstone-2024-team-11/FindSuspect/backend/algorithm/crop
+```
+VTFPAR++모델 이동 경로
+```bash
+Capstone-2024-team-11/FindSuspect/backend/algorithm/VTFPAR++
+```
+### 프론트엔드
+```bash
+cd Capstone-2024-team-11/FindSuspect/backend/src/main/frontend
+npm run start
+```
+### 백엔드
+```bash
+cd Capstone-2024-team-11/FindSuspect/backend
+./gradlew bootRun
+```
+
+
 ## 개발 결과물을 사용하는 방법
 ### Admin 기준
 1. 첫 화면에서 Image Upload 버튼을 클릭합니다.
